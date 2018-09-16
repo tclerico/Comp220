@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Lab10.dir/BST.cpp.o CMakeFiles/Lab10.dir/Lab10Tester.cpp.o CMakeFiles/Lab10.dir/TestLib.cpp.o  -o Lab10.exe -Wl,--out-implib,libLab10.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

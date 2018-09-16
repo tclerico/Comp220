@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Tim/CLionProjects/Lab05/ArrayLib.h
+string
+-
+
+/cygdrive/c/Users/Tim/CLionProjects/Lab05/RecursiveArrayLib.cpp
+cstdlib
+-
+ArrayLib.h
+/cygdrive/c/Users/Tim/CLionProjects/Lab05/ArrayLib.h
+iostream
+-
+
+/cygdrive/c/Users/Tim/CLionProjects/Lab05/SearchSortEfficiencyTester.cpp
+iostream
+-
+ArrayLib.h
+/cygdrive/c/Users/Tim/CLionProjects/Lab05/ArrayLib.h
+cstdlib
+-
+

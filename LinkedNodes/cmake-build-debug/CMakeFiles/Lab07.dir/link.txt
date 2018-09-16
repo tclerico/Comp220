@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Lab07.dir/Lab7Tester.cpp.o CMakeFiles/Lab07.dir/LinkedNode.cpp.o CMakeFiles/Lab07.dir/LinkedQueue.cpp.o CMakeFiles/Lab07.dir/LinkedStack.cpp.o  -o Lab07.exe -Wl,--out-implib,libLab07.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

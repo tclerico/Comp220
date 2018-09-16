@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Tim/CLionProjects/Lab04/ArrayLib.h
+string
+-
+
+/cygdrive/c/Users/Tim/CLionProjects/Lab04/Lab4Tester.cpp
+iostream
+-
+ArrayLib.h
+/cygdrive/c/Users/Tim/CLionProjects/Lab04/ArrayLib.h
+TestLib.h
+/cygdrive/c/Users/Tim/CLionProjects/Lab04/TestLib.h
+
+/cygdrive/c/Users/Tim/CLionProjects/Lab04/RecursiveArrayLib.cpp
+cstdlib
+-
+ArrayLib.h
+/cygdrive/c/Users/Tim/CLionProjects/Lab04/ArrayLib.h
+
+/cygdrive/c/Users/Tim/CLionProjects/Lab04/TestLib.cpp
+iostream
+-
+TestLib.h
+/cygdrive/c/Users/Tim/CLionProjects/Lab04/TestLib.h
+
+/cygdrive/c/Users/Tim/CLionProjects/Lab04/TestLib.h
+string
+-
+

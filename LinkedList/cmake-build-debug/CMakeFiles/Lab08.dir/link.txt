@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Lab08.dir/LinkedNode.cpp.o CMakeFiles/Lab08.dir/IntLinkedList.cpp.o CMakeFiles/Lab08.dir/main.cpp.o  -o Lab08.exe -Wl,--out-implib,libLab08.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

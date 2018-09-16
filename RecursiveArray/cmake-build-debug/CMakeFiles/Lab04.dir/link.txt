@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Lab04.dir/TestLib.cpp.o CMakeFiles/Lab04.dir/RecursiveArrayLib.cpp.o CMakeFiles/Lab04.dir/Lab4Tester.cpp.o  -o Lab04.exe -Wl,--out-implib,libLab04.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

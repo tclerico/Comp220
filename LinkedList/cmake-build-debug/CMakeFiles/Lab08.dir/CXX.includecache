@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Tim/CLionProjects/Lab08/IntLinkedList.cpp
+IntLinkedList.h
+/cygdrive/c/Users/Tim/CLionProjects/Lab08/IntLinkedList.h
+
+/cygdrive/c/Users/Tim/CLionProjects/Lab08/IntLinkedList.h
+string
+-
+stdexcept
+-
+LinkedNode.h
+/cygdrive/c/Users/Tim/CLionProjects/Lab08/LinkedNode.h
+IntList.h
+/cygdrive/c/Users/Tim/CLionProjects/Lab08/IntList.h
+
+/cygdrive/c/Users/Tim/CLionProjects/Lab08/IntList.h
+stdexcept
+-
+
+/cygdrive/c/Users/Tim/CLionProjects/Lab08/LinkedNode.cpp
+LinkedNode.h
+/cygdrive/c/Users/Tim/CLionProjects/Lab08/LinkedNode.h
+
+/cygdrive/c/Users/Tim/CLionProjects/Lab08/LinkedNode.h
+
+/cygdrive/c/Users/Tim/CLionProjects/Lab08/main.cpp
+iostream
+-
+IntLinkedList.h
+/cygdrive/c/Users/Tim/CLionProjects/Lab08/IntLinkedList.h
+

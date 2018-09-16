@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Tim/CLionProjects/Lab10/BST.cpp
+iostream
+-
+BST.h
+/cygdrive/c/Users/Tim/CLionProjects/Lab10/BST.h
+
+/cygdrive/c/Users/Tim/CLionProjects/Lab10/BST.h
+BTNode.h
+/cygdrive/c/Users/Tim/CLionProjects/Lab10/BTNode.h
+
+/cygdrive/c/Users/Tim/CLionProjects/Lab10/BTNode.h
+
+/cygdrive/c/Users/Tim/CLionProjects/Lab10/Lab10Tester.cpp
+iostream
+-
+BST.h
+/cygdrive/c/Users/Tim/CLionProjects/Lab10/BST.h
+TestLib.h
+/cygdrive/c/Users/Tim/CLionProjects/Lab10/TestLib.h
+
+/cygdrive/c/Users/Tim/CLionProjects/Lab10/TestLib.cpp
+iostream
+-
+TestLib.h
+/cygdrive/c/Users/Tim/CLionProjects/Lab10/TestLib.h
+
+/cygdrive/c/Users/Tim/CLionProjects/Lab10/TestLib.h
+string
+-
+

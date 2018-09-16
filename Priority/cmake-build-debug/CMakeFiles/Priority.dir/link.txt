@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Priority.dir/main.cpp.o  -o Priority.exe -Wl,--out-implib,libPriority.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
